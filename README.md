@@ -1,2 +1,2 @@
 # Miners-town
-For Android
+For Android (PET Project)
