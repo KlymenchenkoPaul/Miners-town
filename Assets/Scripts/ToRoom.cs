@@ -20,11 +20,11 @@ public class ToRoom : MonoBehaviour
 
     public void Scena01()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(3);
     }
 
     public void Scena02()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(2);
     }
 }

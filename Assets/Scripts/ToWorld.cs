@@ -14,6 +14,6 @@ public class ToWorld : MonoBehaviour
 
     public void Scena()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
 }
