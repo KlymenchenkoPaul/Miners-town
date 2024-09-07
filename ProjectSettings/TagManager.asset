@@ -11,6 +11,11 @@ TagManager:
   - OutDoor
   - MineDoor
   - AnimOff
+  - Wood
+  - Wood_res
+  - Rock_res
+  - Rock
+  - ZombieIDLESound
   layers:
   - Default
   - TransparentFX
